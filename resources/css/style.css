@@ -1,0 +1,29 @@
+/* GENERAL */
+
+html{
+    font-size: 16px;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+
+/* HEADER */
+
+header{
+    text-align: center;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+
+}
+
+header a {
+    font-size: 1rem;
+    text-align: center;
+    color: aquamarine;
+    justify-content: center;
+    
+}
